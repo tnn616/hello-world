@@ -1,5 +1,5 @@
 # hello-world
-My first repository
+
 
 Hey Y'all
 I'm going to learn how to use Git along with Visual Studio 2017.
